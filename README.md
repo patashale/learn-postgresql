@@ -25,6 +25,6 @@
 
 #### Logo:
 
-Learn PostgreSQL | Learn PostgreSQL
+Learn PostgreSQL `#0064A5` | Learn PostgreSQL `#0064A5`
 :-------------------------:|:-------------------------:
 ![Learn PostgreSQLLogo](https://github.com/patashale/learn-postgresql/assets/68323012/f400b4a6-87d6-40c4-aed4-1492e48a1703) | ![Learn PostgreSQLLogo](https://github.com/patashale/learn-postgresql/assets/68323012/f400b4a6-87d6-40c4-aed4-1492e48a1703)
